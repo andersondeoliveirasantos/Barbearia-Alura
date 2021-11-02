@@ -163,7 +163,6 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-    margin: 0 20px 20px 0;
 }
 
 .principal { 
@@ -231,6 +230,10 @@ td, th {
 
 .imagem-beneficios {
     width: 60%;
+}
+
+.itens::before {
+    content: "🟊";
 }
 
 .video {
