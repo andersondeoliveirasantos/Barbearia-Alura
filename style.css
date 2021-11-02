@@ -241,6 +241,3 @@ td, th {
     margin: 2em auto;
 }
 
-.principal p:not(#missao) {
-    background: orange;
-}
